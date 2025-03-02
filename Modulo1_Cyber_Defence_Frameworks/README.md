@@ -1,8 +1,10 @@
 ## Módulo 1: Cyber Defence Frameworks  
 ## 🏆 Proyecto Destacado: Summit
 
-**Objetivo:** En este laboratorio se nos asigna trabajar con un evaluador Pentester. El evaluador intentará ejecutar muestras de malware, y nuestro objetivo es defender la red de PicoSecure, implementando estrategias de detección y respuesta ante amenazas.  
-Para ello, utilizamos la **Pyramid of Pain** como referencia para aumentar el costo operativo del adversario.
+## 📌 Desarrollo del Desafío
+Si bien en este write-up solo se mostrarán 2-3 capturas de pantalla, el desafío requirió una ejecución meticulosa y varias iteraciones para ajustar las detecciones. Asumí el rol de un Analista SOC, tomándome el tiempo necesario para investigar cada actividad maliciosa y mejorar la postura defensiva de PicoSecure.
+
+###
   
 **Herramientas usadas:**  
 ✅ SIEM - Para monitoreo y detección de eventos sospechosos.  
@@ -10,19 +12,18 @@ Para ello, utilizamos la **Pyramid of Pain** como referencia para aumentar el co
 ✅ Reglas de Detección - Configuración de alertas para detectar actividades sospechosas.  
 
 ##
-## 📌 Desarrollo del Desafío
-Si bien en este write-up solo se mostrarán 2-3 capturas de pantalla, el desafío requirió una ejecución meticulosa y varias iteraciones para ajustar las detecciones. Asumí el rol de un Analista SOC, tomándome el tiempo necesario para investigar cada actividad maliciosa y mejorar la postura defensiva de PicoSecure.
+
 
 
 ## 🛠 Paso 1: Identificación de la actividad sospechosa ##
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/1.png)
 
 
-## 🔍 Paso 2: Creación de reglas de detección 
+## 🔍 Paso 2: Creación de reglas de detección y Bloqueo
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/2.png)
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/3.png)
 
 
-## 🚀 Paso 3: Bloqueo y erradicación de la amenaza
+## 🚀 Paso 3: Eliminación completa de la amenaza
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/4.png)
 
