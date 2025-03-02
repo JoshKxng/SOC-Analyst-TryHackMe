@@ -26,8 +26,8 @@ Aprendí a recolectar y analizar inteligencia de amenazas utilizando herramienta
 
 ### 📢 Conceptos Aprendidos:
 
-Uso de OpenCTI para investigar malware y grupos APT.
-Creación de reglas YARA para detección de amenazas.
+Uso de OpenCTI para investigar malware y grupos APT.  
+Creación de reglas YARA para detección de amenazas.  
 Compartición de información sobre amenazas con MISP.
 
 📌 [Notas y ejemplos](./Modulo2_Cyber_Threat_Intelligence/README.md)
