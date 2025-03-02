@@ -15,5 +15,6 @@ También aprendí cómo las organizaciones usan estos modelos para identificar y
 
 En este módulo trabajé con MITRE ATT&CK para mapear tácticas de adversarios y analizar que Frameworks utilizaban los Grupos APT  
 También ejecuté el uso de la Cyber Kill Chain en escenarios reales.  
-Por último, Evaluación de indicadores de amenazas con la Pyramid of Pain.
-📖 Ver notas detalladas
+Por último, Evaluación de indicadores de amenazas con la Pyramid of Pain.  
+  
+📌 [Notas y ejemplos](./Modulo1_Cyber_Defence_Frameworks/README.md)
