@@ -10,5 +10,8 @@ Para ello, utilizamos la **Pyramid of Pain** como referencia para aumentar el co
 ✅ Reglas de Detección - Configuración de alertas para detectar actividades sospechosas.  
 
 ##
-**📌 Desarrollo del Desafío**
+## 📌 Desarrollo del Desafío
 Si bien en este write-up solo se mostrarán 2-3 capturas de pantalla, el desafío requirió una ejecución meticulosa y varias iteraciones para ajustar las detecciones. Asumí el rol de un Analista SOC, tomándome el tiempo necesario para investigar cada actividad maliciosa y mejorar la postura defensiva de PicoSecure.
+
+
+## 🛠 Paso 1: Identificación de la actividad sospechosa ##
