@@ -18,3 +18,18 @@ También ejecuté el uso de la Cyber Kill Chain en escenarios reales.
 Por último, Evaluación de indicadores de amenazas con la Pyramid of Pain.  
   
 📌 [Notas y ejemplos](./Modulo1_Cyber_Defence_Frameworks/README.md)
+
+##
+### 🕵️ Módulo 2: Cyber Threat Intelligence
+### 💡 Resumen:  
+Aprendí a recolectar y analizar inteligencia de amenazas utilizando herramientas OSINT, YARA y plataformas como OpenCTI y MISP.
+
+### 📢 Conceptos Aprendidos:
+
+Uso de OpenCTI para investigar malware y grupos APT.
+Creación de reglas YARA para detección de amenazas.
+Compartición de información sobre amenazas con MISP.
+
+📌 [Notas y ejemplos](./Modulo2_Cyber_Threat_Intelligence/README.md)
+  
+📖 Ver notas detalladas
