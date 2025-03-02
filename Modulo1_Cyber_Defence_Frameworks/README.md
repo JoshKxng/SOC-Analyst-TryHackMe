@@ -19,4 +19,10 @@ Si bien en este write-up solo se mostrarán 2-3 capturas de pantalla, el desafí
 
 
 ## 🔍 Paso 2: Creación de reglas de detección 
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/2.png)
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/3.png)
+
+
+## 🚀 Paso 3: Bloqueo y erradicación de la amenaza
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/4.png)
 
