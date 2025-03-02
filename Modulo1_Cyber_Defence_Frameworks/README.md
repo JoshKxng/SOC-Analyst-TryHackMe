@@ -15,3 +15,8 @@ Si bien en este write-up solo se mostrarán 2-3 capturas de pantalla, el desafí
 
 
 ## 🛠 Paso 1: Identificación de la actividad sospechosa ##
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/1.png)
+
+
+## 🔍 Paso 2: Creación de reglas de detección 
+
