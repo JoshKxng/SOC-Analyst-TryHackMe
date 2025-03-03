@@ -7,8 +7,8 @@ Es Viernes, últimos minutos de la jornada, ya muchos se preparaban para su fin 
 ###
   
 **Herramientas usadas:**  
-✅ SIEM - Para monitoreo y detección de eventos sospechosos.  
-✅ Firewall - Aplicación de reglas para bloquear tráfico malicioso.  
-✅ Reglas de Detección - Configuración de alertas para detectar actividades sospechosas.  
+✅ OSINT, MITRE ATT&CK  
+✅ VirusTotal, Bash  
+✅ Análisis de IOCs  
 
-##
+## 🛠 Paso 1: Análisis de Malware con OpenCTI
