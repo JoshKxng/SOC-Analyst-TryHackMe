@@ -11,7 +11,7 @@ Trabajé con los principales marcos de defensa cibernética, incluyendo la **Cyb
 
 ### 📢 <ins>Conceptos Aprendidos:<ins>
 
-En este módulo trabajé con **MITRE ATT&CK** para mapear tácticas de adversarios y analizar que Frameworks utilizaban los **Grupos APT** 
+En este módulo trabajé con **MITRE ATT&CK** para mapear tácticas de adversarios y analizar que Frameworks utilizaban los **Grupos APT**.
 Paralelamente ejecuté el uso de la **Cyber Kill Chain** en escenarios reales.  
 Por último, Evaluación de indicadores de amenazas con la **Pyramid of Pain**.  
   
