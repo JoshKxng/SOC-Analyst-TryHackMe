@@ -1,5 +1,5 @@
 ## 🏆 Aquí verás el desafío: Friday Overtime.  
-### También te invito a visitar el desafío Trooper 👇
+### Te invito a visitar el desafío Trooper 👇
 * 👉  [Trooper](Trooper/README.md) - Investigación de TTPs - Aplicación de OpenCTI
 
 
