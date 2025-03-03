@@ -29,7 +29,7 @@ Uso de OpenCTI para investigar malware y grupos APT.
 Creación de reglas YARA para detección de amenazas.  
 Compartición de información sobre amenazas con MISP.
 
-📌 [Notas y ejemplos](./Modulo_2_Cyber_Threat_Intelligence.md)
+📌 [Notas y ejemplos](./Modulo_2_Cyber_Threat_Intelligence/README.md)
 
   
 ##
