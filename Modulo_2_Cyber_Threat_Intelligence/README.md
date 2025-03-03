@@ -1,6 +1,8 @@
 ## 🏆 Aquí verás el desafío: Friday Overtime.  
-## También te invito a visitar el desafío Trooper 👇
-* 👉  [Trooper](Trooper/README.md)
+### También te invito a visitar el desafío Trooper 👇
+* 👉  [Trooper](Trooper/README.md) - Investigación de TTPs - Aplicación de OpenCTI
+
+
 ## 📌 Desarrollo del Desafío
 En este write-up mostraré algunas capturas de pantalla sobre el desafío en cuestión.   
 Es Viernes, últimos minutos de la jornada, ya muchos se preparaban para su fin de semana y yo recibí una alerta crítica en la plataforma de CTI. La empresa financiera **SwiftSpend Finance** había detectado actividad sospechosa y necesitaba un análisis **inmediato de posibles amenazas**. 
