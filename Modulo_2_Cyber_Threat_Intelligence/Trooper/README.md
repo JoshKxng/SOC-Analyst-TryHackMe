@@ -6,8 +6,9 @@ Una empresa tecnológica multinacional ha sido blanco de ciberataques, con robo 
 Como analista de CTI, mi tarea es **identificar las TTPs** del grupo de atacantes, utilizando **OpenCTI y MITRE ATT&CK** para descubrir su identidad y motivos.
 ###
   
-**Herramientas usadas:**  
+**<ins>Herramientas usadas:<ins>**  
 * ✅ OpenCTI y MITRE ATT&CK  
+
 
 ## 🔍 Paso 1: Investigación sobre el Grupo APT X
 * Analizar el reporte completo que hemos recibido.  
@@ -17,9 +18,14 @@ Como analista de CTI, mi tarea es **identificar las TTPs** del grupo de atacante
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Reporte.png)  
 
 ## 🛠 Paso 2: Implementación de OpenCTI sobre el Grupo APT X
-* ¿Cuál es el ID STIX del malware?
-* ¿Qué técnica utilizó APT X para el acceso inicial mediante USB?
-* ¿Cuál es la identidad de APT X?
+* Encontrar el ID STIX del malware
+* Analizar la técnica que utilizó APT X para el acceso inicial mediante USB
+* Analizar la identidad de APT X
   
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Dashboard2.png)
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Dashboard4.png)
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Dashboard5.png)  
+  
+## 🛠 Paso 3: Analizar las técnicas de Tropic Trooper  
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Dashboard7.png) 
+
