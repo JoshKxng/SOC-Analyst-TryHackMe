@@ -15,4 +15,10 @@ Es Viernes, últimos minutos de la jornada, ya muchos se preparaban para su fin 
 * Este correo electrónico simula un escenario de alerta de malware en un entorno corporativo,  lo cual es relevante para el rol de un SOC L1.  
 * Se adjuntan IOCs.
 * Se solicita analizar la muestra de malware adjunta.
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-1.png)
+
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-1.png)  
+
+## 🔍 Paso 2: Identificación de Hashes y Técnicas MITRE ATT&CK  
+* Inicié la operación desde Bash. Extraje el SHA1 hash del archivo pRsm.dll:
+
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-2.png)  
