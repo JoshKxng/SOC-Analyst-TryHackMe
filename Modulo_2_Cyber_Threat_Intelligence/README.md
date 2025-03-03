@@ -12,4 +12,7 @@ Es Viernes, últimos minutos de la jornada, ya muchos se preparaban para su fin 
 ✅ Análisis de IOCs  
 
 ## 🛠 Paso 1: Análisis de Malware con OpenCTI
-
+* Este correo electrónico simula un escenario de alerta de malware en un entorno corporativo,  lo cual es relevante para el rol de un SOC L1.  
+* Se adjuntan IOCs.
+* Se solicita analizar la muestra de malware adjunta.
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-1.png)
