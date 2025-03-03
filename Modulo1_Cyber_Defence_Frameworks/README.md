@@ -1,7 +1,7 @@
 ## 🏆 Módulo 1 - Desafío: Summit  
 
 ## 📌 Desarrollo del Desafío
-Si bien en este write-up solo mostraré 4 capturas de pantalla, el desafío requirió una ejecución meticulosa y varias instancias para ajustar las detecciones. Asumí el rol de un Analista SOC, tomándome el tiempo necesario para investigar cada actividad maliciosa. En este laboratorio se nos asigna trabajar con un evaluador Pentester. El evaluador intentará ejecutar <u>***6 muestras de malware<u>*** y nuestro objetivo es defender la red de **PicoSecure** ante este adversario que intenta evadir nuestras detecciones. Vamos a utilizar los estandares de la **Pyramid of Pain**.
+Si bien en este write-up solo mostraré 4 capturas de pantalla, el desafío requirió una ejecución meticulosa para sus **6 instancias**. Asumí el rol de un Analista SOC, tomándome el tiempo necesario para investigar cada actividad maliciosa. En este laboratorio se nos asigna trabajar con un evaluador Pentester. El evaluador intentará ejecutar <u>***6 muestras de malware<u>*** y nuestro objetivo es defender la red de **PicoSecure** ante este adversario que intenta evadir nuestras detecciones. Vamos a utilizar los estandares de la **Pyramid of Pain**.
 
 ###
   
