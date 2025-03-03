@@ -7,13 +7,12 @@ Acá encontrarás mi experiencia práctica, las herramientas que utilicé y caso
 ### 🛠️ <ins>Módulo 1: Cyber Defence Frameworks<ins>  
   
 ### 💡 <ins>Resumen:<ins> 
-Trabajé con los principales marcos de defensa cibernética, incluyendo la **Cyber Kill Chain**, **MITRE ATT&CK** y el **Diamond Model**.  
-También aprendí cómo las organizaciones usan estos modelos para identificar y responder a amenazas.
+Trabajé con los principales marcos de defensa cibernética, incluyendo la **Cyber Kill Chain**, **MITRE ATT&CK** y el **Diamond Model**. También aprendí cómo las organizaciones usan estos modelos para identificar y responder a amenazas.
 
 ### 📢 <ins>Conceptos Aprendidos:<ins>
 
 En este módulo trabajé con **MITRE ATT&CK** para mapear tácticas de adversarios y analizar que Frameworks utilizaban los **Grupos APT** 
-También ejecuté el uso de la **Cyber Kill Chain** en escenarios reales.  
+Paralelamente ejecuté el uso de la **Cyber Kill Chain** en escenarios reales.  
 Por último, Evaluación de indicadores de amenazas con la **Pyramid of Pain**.  
   
 📌 [Notas y ejemplos](./Modulo1_Cyber_Defence_Frameworks/README.md)
@@ -33,5 +32,5 @@ Compartición de información sobre amenazas con **MISP**.
 
   
 ##
-### <ins>Módulo 3 (En Proceso)</ins>🔐
+### 🔐<ins>Módulo 3 (En Proceso)</ins>🔐
 En este módulo estoy trabajando con fundamentos de seguridad en redes y análisis de tráfico. El objetivo es identificar y analizar anomalías en la red utilizando herramientas especializadas.
