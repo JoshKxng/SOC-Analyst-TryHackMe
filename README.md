@@ -1,9 +1,9 @@
-# SOC Level 1 - TryHackMe
-Hola! Este repositorio tiene como finalidad documentar mi progreso en el Pathway de SOC Analyst Level 1 de TryHackMe. 
+# Pathway SOC Level 1 - TryHackMe
+Hola!👋 Este repositorio tiene como finalidad documentar mi progreso en el Pathway de **SOC Analyst Level 1 de TryHackMe**. 
 Acá encontrarás mi experiencia práctica, las herramientas que utilicé y casos de estudios con enfoque en **Threat Intelligence, SIEM, y análisis de amenazas**
 ##
 
-### 📚 Módulos Completados
+### 📚 Módulos Completados 2/8
 ##
 ### 🛠️ Módulo 1: Cyber Defence Frameworks  
   
@@ -31,5 +31,7 @@ Creación de reglas YARA para detección de amenazas.
 Compartición de información sobre amenazas con MISP.
 
 📌 [Notas y ejemplos](./Modulo2_Cyber_Threat_Intelligence/README.md)
+
   
-📖 Ver notas detalladas
+##
+### Modulo 3 (En Proceso) 🔐
