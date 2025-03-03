@@ -33,4 +33,5 @@ Compartición de información sobre amenazas con MISP.
 
   
 ##
-### <ins>Modulo 3 (En Proceso)</ins>🔐
+### <ins>Módulo 3 (En Proceso)</ins>🔐
+En este módulo estoy trabajando con fundamentos de seguridad en redes y análisis de tráfico. El objetivo es identificar y analizar anomalías en la red utilizando herramientas especializadas.
