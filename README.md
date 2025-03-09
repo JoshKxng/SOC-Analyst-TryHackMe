@@ -35,4 +35,4 @@ Compartición de información sobre amenazas con **MISP**.
 ### 🔐<ins>Módulo 3 (En Proceso)</ins>🔐
 En este módulo estoy trabajando con fundamentos de seguridad en redes y análisis de tráfico. El objetivo es identificar y analizar anomalías en la red utilizando herramientas especializadas.  
 
-📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo_3%20Network%20Security%20%26%20Traffic%20Analysis)
+📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis)
