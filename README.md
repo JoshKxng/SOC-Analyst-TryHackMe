@@ -28,7 +28,7 @@ Uso de **OpenCTI** para investigar malware y grupos APT.
 Creación de reglas **YARA** para detección de amenazas.  
 Compartición de información sobre amenazas con **MISP**.
 
-📌 [Notas y ejemplos](./Modulo_2_Cyber_Threat_Intelligence/README.md)
+📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%202%20-%20Cyber%20Threat%20Intelligence)
 
   
 ##
