@@ -11,4 +11,4 @@ En esta sección, te invito a ver mi aprendizaje y el uso de estas herramientas 
 - 🖥 [Wireshark](#) *(Próximamente)*  
 - 📡 [Tshark](#) *(Próximamente)*  
 
-🔗 **Cada herramienta tendrá su propia documentación detallada**.
+🛠️ **Cada herramienta tendrá su propia documentación detallada**.
