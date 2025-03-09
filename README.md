@@ -15,7 +15,7 @@ En este módulo trabajé con **MITRE ATT&CK** para mapear tácticas de adversari
 Paralelamente ejecuté el uso de la **Cyber Kill Chain** en escenarios reales.  
 Por último, Evaluación de indicadores de amenazas con la **Pyramid of Pain**.  
   
-📌 [Notas y ejemplos](./Modulo1_Cyber_Defence_Frameworks/README.md)
+📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%201%20-%20Cyber%20Defence%20Frameworks)
 
 ##
 ### 🕵️ <ins>Módulo 2: Cyber Threat Intelligence<ins>
