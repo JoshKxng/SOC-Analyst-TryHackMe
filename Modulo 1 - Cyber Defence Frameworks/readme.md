@@ -15,14 +15,14 @@ Si bien en este write-up solo mostraré 4 capturas de pantalla, el desafío requ
 
 
 ## 🛠 Paso 1: Identificación de la actividad sospechosa ##
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/1.png)
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Summit/1.png)
 
 
 ## 🔍 Paso 2: Creación de reglas de detección y Bloqueo
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/2.png)
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/3.png)
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Summit/2.png)
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Summit/3.png)
 
 
 ## 🚀 Paso 3: Eliminación completa de la amenaza
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/4.png)
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Summit/4.png)
 
