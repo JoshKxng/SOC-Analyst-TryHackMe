@@ -15,16 +15,16 @@ Como analista de CTI, mi tarea es **identificar las TTPs** del grupo de atacante
 * Analizar campañas de phishing del grupo APT X (TTPs) ***Spear-Phishing Emails***
 * Encontrar es el nombre del malware utilizado por el grupo APT X? ***USBferry***
 
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Reporte.png)  
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Trooper/Reporte.png)  
 
 ## 🛠 Paso 2: Implementación de OpenCTI sobre el Grupo APT X
 * Encontrar el ID STIX del malware
 * Analizar la técnica que utilizó APT X para el acceso inicial mediante USB
 * Analizar la identidad de APT X
   
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Dashboard2.png)
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Dashboard4.png)
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Dashboard5.png)  
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Trooper/Dashboard2.png)
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Trooper/Dashboard4.png)
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Trooper/Dashboard5.png)  
   
 ## 🛠 Paso 3: Analizar las técnicas de Tropic Trooper  
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Dashboard7.png) 
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Trooper/Dashboard7.png) 
