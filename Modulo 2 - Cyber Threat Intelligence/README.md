@@ -18,21 +18,21 @@ Es Viernes, últimos minutos de la jornada, ya muchos se preparaban para su fin 
 * Se adjuntan IOCs.
 * Se solicita analizar la muestra de malware adjunta.
 
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-1.png)  
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Overtime/Overtime-1.png)  
 
 ## 🔍 Paso 2: Identificación de Hashes, Técnicas MITRE ATT&CK y Aplicación de Métodología OSINT  
 * Inicié la operación desde Bash. Extraje el SHA1 hash del archivo pRsm.dll:
 * Identifiqué que pertenecía al framework ***<ins>MgBot</ins>***, usado para ataques dirigidos.
 * Mapeé la actividad con MITRE ATT&CK, vinculándolo a la técnica T1123 (Audio Capture).
   
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-2.png)  
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-3.png)  
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-4.png)  
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Overtime/Overtime-2.png)  
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Overtime/Overtime-3.png)  
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Overtime/Overtime-4.png)  
 
 ## 🚀 Paso 3: Detección y Compartición de IoCs
 * Analicé la URL maliciosa del malware con CyberChef:
 * Identifiqué la dirección IP del servidor de comando y control (C&C):
 
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-5.png)
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-6.png) 
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/main/imagenes/Overtime-7.png) 
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Overtime/Overtime-5.png)
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Overtime/Overtime-6.png) 
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Level-1-THM/refs/heads/main/imagenes/Overtime/Overtime-7.png) 
