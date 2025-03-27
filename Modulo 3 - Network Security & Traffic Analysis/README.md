@@ -7,6 +7,7 @@
 En esta sección, te invito a ver mi aprendizaje y el uso de estas herramientas clave para el análisis de tráfico de red. Cada apartado contiene ejemplos prácticos y notas sobre su aplicación en entornos de seguridad.
 
 - 🔍 [Zeek](https://github.com/JoshKxng/SOC-Level-1-THM/blob/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis/Zeek/README.md) ✅  
+- 📥 [NetworkMiner](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis/NetworkMiner) ✅
 - 📊 [BRIM](#) *(En proceso)*  
 - 🖥 [Wireshark](#) *(Próximamente)*  
 - 📡 [Tshark](#) *(Próximamente)*  
