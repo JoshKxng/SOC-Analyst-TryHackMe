@@ -1,7 +1,8 @@
 # 🖥 Wireshark - Análisis forense de tráfico de red
-### 📅 Escenario: El SOC está en alerta. Se detectaron varios eventos sospechosos en la red interna de la organización y el equipo de ciberseguridad me solicitó un análisis forense para identificar actividad anómala. mi tarea es investigar el tráfico capturado con Wireshark y extraer información clave que nos ayude a comprender lo que ha sucedido.
+## 🏆 Desafío:
+### El SOC está en alerta. Se detectaron varios eventos sospechosos en la red interna de la organización y el equipo de ciberseguridad me solicitó un análisis forense para identificar actividad anómala. mi tarea es investigar el tráfico capturado con Wireshark y extraer información clave que nos ayude a comprender lo que ha sucedido.
 
-### A continuación, documento mis hallazgos en cuatro áreas críticas: 
+### <ins> A continuación, documento mis hallazgos en cuatro áreas críticas:<ins> 
 ### ✅ Identificación de hosts  
 ### ✅ Túneles de tráfico  
 ### ✅ Protocolos en texto claro  
@@ -33,8 +34,6 @@
 ### 📌 Investigación de paquetes anómalos
 ### ⚠️ Se detectó un patrón sospechoso en las consultas DNS. ¿Cuál es el dominio principal que recibe estas consultas anómalas? (Formato defanged) ✅ dataexfil[.]com
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Wireshark/Tunneling%201.png)
-
-### 💡 Los atacantes a suelen utilizar consultas DNS para exfiltrar datos o aplicar la táctica C2. Este tipo de tráfico es una alerta temprana de actividad maliciosa en la red.
 
 ---
 
