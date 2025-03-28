@@ -36,6 +36,5 @@
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/BRIM/Pcap6%20-%202.png)
 
 # 🎖️ Conclusión:
-**Este análisis realizado con Brim me permitió detectar actividad maliciosa en la red, correlacionando conexiones y eventos de seguridad en tiempo real. 
-Esta información es clave para generar reportes de incidentes y tomar medidas preventivas.**
+## Este análisis realizado con Brim me permitió detectar actividad maliciosa en la red, correlacionando conexiones y eventos de seguridad en tiempo real. Esta información es clave para generar reportes de incidentes y tomar medidas preventivas.
 
