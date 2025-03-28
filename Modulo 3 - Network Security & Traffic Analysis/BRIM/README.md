@@ -12,7 +12,7 @@
 ---
 
 ## 📌 Alertas de Suricata:
-**📂 Suricata ha generado alertas bajo la categoría "Potential Corporate Privacy Violation". ¿Cuál es el Signature ID asociado?**
+**📂 Suricata ha generado alertas bajo la categoría "Potential Corporate Privacy Violation". ¿Cuál es el Signature ID asociado?**  
 **✅ 2,012,887**  
 
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/BRIM/3%20-%20Signature.png)
