@@ -1,4 +1,4 @@
-# 🛠 Brim - Análisis de tráfico y detección de amenazas
+# 📊 Brim - Análisis de tráfico y detección de amenazas
 ## 📅 La jornada transcurre sin incidentes graves hasta que un ticket prioritario llega a nuestro dashboard. Un cliente ha reportado actividad sospechosa en su red y necesita un análisis inmediato. Como Analista SOC Nivel 1, mi tarea es revisar los logs de tráfico con Brim y correlacionar eventos para identificar posibles amenazas.
 ---
 
