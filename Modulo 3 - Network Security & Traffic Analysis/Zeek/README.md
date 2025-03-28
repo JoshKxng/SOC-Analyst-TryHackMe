@@ -45,7 +45,7 @@ Aquí buscaré cuál es la dirección IP del host que originó esta actividad so
 
 ---
 
-## 🎖️ **Conclusión**
+# 🎖️ **Conclusión**
 
-#### Tras este análisis, hemos recopilado suficiente evidencia para determinar que la alerta de "Anomalous DNS Activity" es un True Positive. Nuestro resultado puede sugerir la posibilidad de un **DNS Tunneling** o exfiltración de datos. Este caso será escalado al equipo de respuesta a incidentes para una investigación más profunda y la mitigación de la amenaza.
+## Tras este análisis, hemos recopilado suficiente evidencia para determinar que la alerta de "Anomalous DNS Activity" es un True Positive. Nuestro resultado puede sugerir la posibilidad de un **DNS Tunneling** o exfiltración de datos. Este caso será escalado al equipo de respuesta a incidentes para una investigación más profunda y la mitigación de la amenaza.
 
