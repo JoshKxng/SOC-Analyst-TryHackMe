@@ -1,6 +1,6 @@
 # 📡 TShark Challenge I - Teamwork
 # 🏆 Desafío:
-### Me asignaron el análisis del archivo *teamwork.pcap* para investigar un dominio sospechoso detectado por el equipo de Threat Intelligence. Para resolver esto, utilicé TShark desde la terminal para extraer el tráfico DNS,  identifiqué los dominios involucrados y luego verifiqué su reputación en VirusTotal. Gracias a esto, pude seguir el rastro del tráfico malicioso, identificar una suplantación de identidad y generar información clave que podría sumarse a las reglas de detección para reforzar la postura del equipo de seguridad.
+### Me asignaron el análisis del archivo `teamwork.pcap` para investigar un dominio sospechoso detectado por el equipo de Threat Intelligence. Para resolver esto, utilicé TShark desde la terminal para extraer el tráfico DNS,  identifiqué los dominios involucrados y luego verifiqué su reputación en VirusTotal. Gracias a esto, pude seguir el rastro del tráfico malicioso, identificar una suplantación de identidad y generar información clave que podría sumarse a las reglas de detección para reforzar la postura del equipo de seguridad.
 
 ### 🛠️ Herramientas Utilizadas
 ### ✅ TShark – Inspección y filtrado de paquetes desde la consola.
