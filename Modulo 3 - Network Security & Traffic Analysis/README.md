@@ -10,6 +10,7 @@ En esta sección, te invito a ver mi aprendizaje y el uso de estas herramientas 
 - 📥 [NetworkMiner](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis/NetworkMiner) ✅
 - 📊 [BRIM](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis/BRIM) ✅
 - 🦈 [Wireshark](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/Modulo%203%20-%20Network%20Security%20&%20Traffic%20Analysis/Wireshark/README.md) ✅ 
-- 📡 [Tshark](#) *(En proceso)* ⏳
+- 📡 [Tshark Parte 1](#) *(En proceso)* ⏳
+- 📡 [Tshark Parte 2](#) *(En proceso)* ⏳
 
-🛠️ **Cada herramienta tendrá su propia documentación detallada**.
+🛠️ **Cada herramienta tiene su propia documentación detallada**.
