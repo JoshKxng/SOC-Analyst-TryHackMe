@@ -32,7 +32,7 @@
 
 ---
 
-## 🌍 **Dirección IP asociada al dominio: 
+## 🌍 Dirección IP asociada al dominio: 
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/T-Shark%202/Directory%205.png)
 
 ---
@@ -65,5 +65,5 @@
 
 # 🎖️ Conclusión
 
-## Este caso reafirmó la importancia de monitorear cuidadosamente las interacciones HTTP y DNS dentro de la red, incluso cuando provienen de acciones aparentemente inofensivas como navegar por un índice web. Gracias al uso de herramientas como **TShark** y **VirusTotal**, pude seguir el rastro del incidente desde la navegación inicial hasta el análisis forense del archivo descargado. Documentar estos pasos fortalece nuestra capacidad de detección futura y contribuye al enriquecimiento continuo del equipo SOC.
+## Este caso fue una gran oportunidad para aplicar lo aprendido con TShark y reforzar lo importante que es prestar atención a los detalles del tráfico HTTP y DNS. Lo que empezó como una simple navegación a un índice web terminó revelando un archivo malicioso. Usando herramientas como TShark y VirusTotal, pude seguir todo el recorrido, identificar el dominio sospechoso, analizar el archivo y dejar todo bien documentado para que el equipo pueda actuar más rápido en el futuro.
 
