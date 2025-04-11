@@ -55,4 +55,4 @@ Este módulo me está entrenando en el monitoreo y análisis de actividad malici
 ✅ Lectura y análisis de logs de eventos en Windows.  
 ...y avanzando con Sysmon, Osquery, Wazuh y laboratorios prácticos de monitoreo.  
 
-📌 [Notas y ejemplos] En proceso ⏳
+### En proceso ⏳🛠️
