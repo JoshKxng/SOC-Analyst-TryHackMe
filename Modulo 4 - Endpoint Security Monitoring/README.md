@@ -1,8 +1,7 @@
 # 🔐 Módulo 4 - Endpoint Security Monitoring
 
-Cursar este módulo fue un antes y un despues. Enriquecedor como todos los módulos anteriores. Pero este me llevó naturalmente a aplicar un pensamiento análitico usando la lógica, 
-pivotando entre pistas y tomando decisiones basadas en los objetivos asignados.  
-El hecho de haber profundizado en uno de los pilares más importantes de un Analista SOC: El monitoreo de endpoints ✔️ Identificar actividad maliciosa en dispositivos ✔️, El interpretar eventos críticos del sistema operativo y usar herramientas reales para la detección y respuesta ante incidentes ✔️ Me hizo sentir como si formara parte de un equipo SOC. 
+Cursar este módulo fue un antes y un despues. Fue enriquecedor como todos los módulos anteriores, pero este me llevó naturalmente a aplicar un pensamiento análitico más desafiante. 
+Pivotando entre pistas y tomando decisiones con confianza. El hecho de haber profundizado en uno de los pilares más importantes de un Analista SOC: El monitoreo de endpoints, identificar actividad maliciosa en dispositivos, el interpretar eventos críticos del sistema operativo y usar herramientas reales para la detección y respuesta ante incidentes **me hizo sentir como si formara parte de un equipo SOC.**
 
 ## 🧰 Herramientas de Monitoreo y Análisis en Endpoints que utilicé:
 
