@@ -32,3 +32,8 @@
 ## 🗂️ 5. Ruta completa del archivo .bat
 ## Finalmente, localicé la ruta exacta donde estaba ese archivo .bat. Tener este dato fue clave para adjuntar la evidencia al informe y escalar el caso al equipo de respuesta.
 ![](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/imagenes/Osquery/6.png)
+
+---
+# 🎖️ Conclusión
+
+## Este desafío me ayudó a ganar soltura usando Osquery en escenarios reales. Aprendí a hacer consultas precisas, interpretar resultados y detectar actividad sospechosa. Una oportunidad espectacular para pensar como analista y actuar con criterio frente a un posible incidente.
