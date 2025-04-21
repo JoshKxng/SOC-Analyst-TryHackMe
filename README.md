@@ -46,13 +46,12 @@ Extracción de artefactos con **NetworkMiner**.
   
 ##
 ### 🛡️ <ins>Módulo 4 - Endpoint Security Monitoring (En proceso)</ins>⏳🛠️
-Este módulo me está entrenando en el monitoreo y análisis de actividad maliciosa dentro de los endpoints. Estoy aprendiendo a detectar comportamiento sospechoso, eventos críticos del sistema, y a utilizar herramientas reales del entorno empresarial para hacer análisis forense y cacería de amenazas.  
+Finalicé este módulo profundizando en uno de los pilares clave del rol SOC: análisis de actividad maliciosa dentro de los endpoints, detectar comportamiento sospechoso, eventos críticos del sistema, y a utilizar herramientas de entorno empresarial para hacer frente a distintas amenazas. 
 
 ### 📢 <ins>Conceptos Aprendidos:</ins>
-✅ Fundamentos de seguridad en endpoints.  
-✅ Procesos esenciales de Windows y detección de actividad anómala.  
-✅ Herramientas Sysinternals para análisis avanzado de sistemas.  
-✅ Lectura y análisis de logs de eventos en Windows.  
-...y avanzando con Sysmon, Osquery, Wazuh y laboratorios prácticos de monitoreo.  
+Sysmon, Osquery, Wazuh.  
+Procesos esenciales de Windows y detección de actividad anómala.  
+Herramientas Sysinternals para análisis avanzado de sistemas.  
+Lectura y análisis de logs de eventos en Windows.  
 
-### En proceso ⏳🛠️
+📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring)
