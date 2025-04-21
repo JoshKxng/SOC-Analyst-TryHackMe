@@ -4,28 +4,31 @@
 ### Durante un turno de monitoreo como Analista SOC Jr., se me asignó la tarea de revisar un host con actividad sospechosa utilizando Osquery. El objetivo era recolectar evidencia sobre posibles intentos de borrar rastros, conexiones ocultas y archivos que se ejecutan automáticamente en el sistema.  A continuación, documento cómo abordé cada requerimiento técnico a través de consultas SQL en Osquery, simulando una investigación forense en un entorno real de trabajo.
 
 ---
-# 📌 1. Detección de herramienta para eliminación de rastros
-## Una revisión inicial de las tablas de procesos reveló que uno de los usuarios ejecutó una aplicación diseñada para eliminar trazas del sistema. Este hallazgo fue clave para escalar el incidente, ya que indica un posible intento de antiforense.
+
+## 🧹 1. Herramienta para eliminar rastros del sistema
+## Al revisar los procesos activos, encontré que uno de los usuarios había ejecutado una herramienta diseñada para borrar huellas del sistema. Este tipo de actividad suele estar asociada a intentos de ocultamiento, así que lo marqué como un posible indicio de antiforense.
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Osquery/2.png)
 
 ---
 
-# 📌 2. Detección de VPN instalada en el host
-## Se me solicitó identificar la presencia de software VPN. A través de una consulta en la tabla de paquetes instalados (programs), logré detectar la aplicación utilizada. Este tipo de software podría estar facilitando conexiones remotas no autorizadas, por lo que fue marcado para monitoreo.
+## 🔐 2. Software VPN instalado
+## Me pidieron verificar si el equipo tenía alguna VPN instalada. Usando una consulta sobre los programas registrados, identifiqué una aplicación que podría estar siendo usada para establecer conexiones remotas fuera del control corporativo. La dejé registrada para seguimiento. `✅ProtonVPN`
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Osquery/3.png)
 
 ---
 
-# 📌 3. Servicios activos en el sistema
-## Ejecuté una consulta a la tabla services para determinar la cantidad de servicios en ejecución en el host. Esto me dio una idea del nivel de actividad general en el equipo y posibles vectores de ataque persistentes.
+## ⚙️ 3. Servicios activos en ejecución
+## Consulté la tabla `services` para tener un panorama de cuántos servicios estaban corriendo en el host. Esto me ayudó a dimensionar la actividad del sistema y pensar en posibles puntos de entrada o persistencia.`✅214`
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Osquery/4.png)
 
-📌 4. Identificación de ejecutables en autoejecución
-Al inspeccionar la tabla autoexec, detecté un archivo .bat configurado para ejecutarse automáticamente.
-![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Osquery/5a.png)
-Este tipo de archivos pueden contener scripts maliciosos que se ejecutan sin intervención del usuario.
+--- 
 
-📌 5. Ruta completa del archivo .bat
-Para cerrar el análisis, localicé la ubicación exacta del archivo batch dentro del sistema.
-🗂️ Ruta absoluta: [C:\Ruta\completa\archivo.bat]
-La evidencia fue documentada y reportada al equipo de respuesta para su análisis profundo.
+## 📄 4. Archivo .bat en autoejecución
+## Al inspeccionar la tabla `autoexec`, detecté un archivo .bat que se ejecutaba automáticamente. Este tipo de archivos puede ser aprovechado para cargar scripts maliciosos al inicio del sistema, así que lo marqué para análisis posterior.
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Osquery/5a.png)
+
+---
+
+## 🗂️ 5. Ruta completa del archivo .bat
+## Finalmente, localicé la ruta exacta donde estaba ese archivo .bat. Tener este dato fue clave para adjuntar la evidencia al informe y escalar el caso al equipo de respuesta.
+![](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/imagenes/Osquery/6.png)
