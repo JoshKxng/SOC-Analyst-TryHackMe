@@ -45,11 +45,9 @@ Bajo la supervisión del Senior Security Engineer **John Sterling**, fui asignad
 
 ---
 ## 6️⃣ Exfiltración de datos y descubrimiento de la flag 
-### La etapa final del ataque fue la exfiltración de datos sensibles mediante PowerShell y servicios externos (Pastebin). En esta transmisión, el atacante incluyó una **flag de evaluación** que sirvió como validación del análisis exitoso. El filtro que me sirvió para encontrar esta flag fue `cmd.exe /c net user ...`
+### La etapa final del ataque fue la exfiltración de datos sensibles mediante PowerShell y servicios externos (Pastebin). En esta transmisión, el atacante incluyó una *flag de evaluación* que sirvió como validación del análisis exitoso. El filtro que me sirvió para encontrar esta flag fue `cmd.exe /c net user ...`
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Wazuh/07.png)
 
+# 🎖️ Conclusión
+## Este análisis simulado fue, hasta el momento, una de las experiencias más inmersivas y realistas de mi formación. Me llevó a desafiarme a mi mismo como nunca antes. Indagar a fondo las herramientas con las que uno tiene que trabajar. Durante el proceso, fue prueba y error muchas veces. Comandos que no me llevaban a ninguna parte y otros que me acercaban a lo que me decía mi intuición. Entendí que a veces, calibrar la mirada y el enfoque preciso me va a llevar a destino. Más cuando trabajamos con cientos y cientos de logs a diaros. Una experiencia enriquecedora en todo sentido.
 
-## 📘 Conclusión
-
-Este análisis simulado fue, hasta el momento, una de las experiencias más inmersivas y realistas de mi formación. Me permitió utilizar herramientas del mundo real como Wazuh, mejorar mi metodología de investigación, afinar mis habilidades de detección y sobre todo, validar que estoy cada vez más cerca de operar como un Analista SOC Jr. en un entorno real de trabajo.
-
-> 🔄 **Próximo paso:** avanzar con los desafíos finales del módulo y fortalecer mis habilidades en análisis de comportamiento, correlación de eventos y respuesta ante incidentes.
