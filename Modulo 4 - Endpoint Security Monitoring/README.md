@@ -4,7 +4,7 @@ Cursar este módulo fue un antes y un despues. Enriquecedor como todos los módu
 pivotando entre pistas y tomando decisiones basadas en los objetivos asignados.  
 El hecho de haber profundizado en uno de los pilares más importantes de un Analista SOC: El monitoreo de endpoints ✔️ Identificar actividad maliciosa en dispositivos ✔️, El interpretar eventos críticos del sistema operativo y usar herramientas reales para la detección y respuesta ante incidentes ✔️ Me hizo sentir como si formara parte de un equipo SOC. 
 
-## 🧰 Herramientas de Monitoreo y Análisis en Endpoints
+## 🧰 Herramientas de Monitoreo y Análisis en Endpoints que utilicé:
 
 - **🔎 Core Windows Processes: Para comprender procesos esenciales y detectar actividad sospechosa.**
 
