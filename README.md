@@ -3,7 +3,7 @@ Hola!👋 Este repositorio tiene como finalidad documentar mi progreso en el Pat
 Acá encontrarás mi experiencia práctica, las herramientas que utilicé y casos de estudios con enfoque en **Threat Intelligence, SIEM, y análisis de amenazas**
 ##
 
-## 📚 Módulos Completados 3/8
+## 📚 Módulos Completados 4/8
 ### 🛠️ <ins>Módulo 1: Cyber Defence Frameworks<ins>  
   
 ### 💡 <ins>Resumen:<ins> 
