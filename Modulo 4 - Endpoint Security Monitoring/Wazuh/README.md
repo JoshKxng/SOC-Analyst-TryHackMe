@@ -49,5 +49,5 @@ Bajo la supervisión del Senior Security Engineer **John Sterling**, fui asignad
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Wazuh/07.png)
 
 # 🎖️ Conclusión
-## Este análisis simulado fue, hasta el momento, una de las experiencias más inmersivas y realistas de mi formación. Me llevó a desafiarme a mi mismo como nunca antes. Indagar a fondo las herramientas con las que uno tiene que trabajar. Durante el proceso, fue prueba y error muchas veces. Comandos que no me llevaban a ninguna parte y otros que me acercaban a lo que me decía mi intuición. Entendí que a veces, calibrar la mirada y el enfoque preciso me va a llevar a destino. Más cuando trabajamos con cientos y cientos de logs a diaros. Una experiencia enriquecedora en todo sentido.
+## Este análisis simulado fue, hasta el momento, una de las experiencias más inmersivas y realistas de mi formación. Me llevó a desafiarme a mi mismo como nunca antes. Durante el proceso, fue prueba y error muchas veces. Comandos que no me llevaban a ninguna parte y otros que me acercaban a lo que me decía mi intuición. Entendí que a veces, un enfoque preciso y calibrar la mirada me van a llevar a destino. Más cuando trabajamos con cientos y cientos de logs a diaro. Una experiencia enriquecedora en todo sentido.
 
