@@ -46,7 +46,7 @@ Extracción de artefactos con **NetworkMiner**.
   
 ##
 ### 🛡️ <ins>Módulo 4 - Endpoint Security Monitoring</ins>
-Finalicé este módulo profundizando en uno de los pilares clave del rol SOC: análisis de actividad maliciosa dentro de los endpoints, detectar comportamiento sospechoso, eventos críticos del sistema, y a utilizar herramientas de entorno empresarial para hacer frente a distintas amenazas. 
+Finalicé este módulo profundizando en uno de los pilares clave del rol SOC: análisis de actividad maliciosa dentro de los endpoints, detectar comportamientos sospechosos, eventos críticos del sistema y a utilizar herramientas de entorno empresarial para hacer frente a distintas amenazas. 
 
 ### 📢 <ins>Conceptos Aprendidos:</ins>
 Sysmon, Osquery, Wazuh.  
