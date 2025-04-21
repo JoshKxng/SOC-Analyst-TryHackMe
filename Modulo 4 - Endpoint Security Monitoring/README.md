@@ -1,20 +1,21 @@
 # 🔐 Módulo 4 - Endpoint Security Monitoring
 
-## Cursar este módulo fue un antes y un después. Fue tan enriquecedor como los anteriores, pero este me llevó naturalmente a aplicar un pensamiento analítico más desafiante. Obviamente, esta evolución se dio gracias al camino recorrido en los tres módulos previos. Acá me encontré pivotando entre pistas y tomando decisiones con más confianza. El hecho de haber profundizado en uno de los pilares más importantes de un Analista SOC *el monitoreo de endpoints, la identificación de actividad maliciosa en dispositivos, la interpretación de eventos críticos del sistema operativo y el uso de herramientas reales para la detección y respuesta ante incidentes* me hizo sentir como si formara parte de un equipo SOC.
+### Cursar este módulo fue un antes y un después. Fue tan enriquecedor como los anteriores, pero este me llevó naturalmente a aplicar un pensamiento analítico más desafiante. Obviamente, esta evolución se dio gracias al camino recorrido en los tres módulos previos. Acá me encontré pivotando entre pistas y tomando decisiones con más confianza. El hecho de haber profundizado en uno de los pilares más importantes de un Analista SOC *el monitoreo de endpoints, la identificación de actividad maliciosa en dispositivos, la interpretación de eventos críticos del sistema operativo y el uso de herramientas reales para la detección y respuesta ante incidentes* me hizo sentir como si formara parte de un equipo SOC.
 
 ## 🧰 Herramientas que utilicé:
-- **🔎 Core Windows Processes: Para comprender procesos esenciales y detectar actividad sospechosa.**
+| Herramienta             | Función principal                                                              |
+|-------------------------|--------------------------------------------------------------------------------|
+| 🔎 **Core Windows Processes** | **Identificar procesos esenciales y detectar comportamientos sospechosos**        |
+| 📁 **Sysinternals Suite**    | **Análisis avanzado del sistema con herramientas como Procmon y Autoruns**        |
+| 📑 **Windows Event Logs**    | **Visualización de eventos relevantes para detección de amenazas**                 |
+| 📸 **Sysmon**                | **Registro detallado de procesos y eventos críticos**                             |
+| 💻 **Osquery**               | **Consultas SQL para monitoreo y auditoría del sistema**                          |
+| 🛡️ **Wazuh**                 | **Detección de amenazas, alertas y monitoreo de integridad**                      |
 
-- **📁 Sysinternals Suite: Utilizada para investigar el comportamiento del sistema en profundidad.**
-
-- **📑 Windows Event Logs: Revisión y análisis de eventos relevantes para detección de amenazas.**
-
-- **📸 Sysmon: Monitoreo detallado de eventos críticos en endpoints.**
-
-- **💻 Osquery: Consultas tipo SQL para auditar y monitorear sistemas en tiempo real.**
-
-- **🛡️ Wazuh: Detección de amenazas, monitoreo de integridad y generación de alertas de seguridad.**
 
 
 ## 📂 Notas y Documentación:
-En esta sección documenté mi experiencia con herramientas ampliamente utilizadas en el monitoreo de endpoints. Cada apartado refleja no solo el uso técnico, sino el pensamiento analítico que debe tener un analista al enfrentarse a eventos sospechosos en entornos empresariales reales.
+### Te invito a ver mi aprendizaje donde documenté el uso de estas herramientas con desafíos prácticos. Fueron desafíos muy enriquecedores y cercanos a eventos sospechosos en entornos empresariales.
+
+- 🛡️ [Wazuh](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring/Wazuh) ✅  
+- 💻 [Osquery](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring/Osquery) ✅
