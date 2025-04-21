@@ -2,8 +2,7 @@
 
 ## Cursar este módulo fue un antes y un después. Fue tan enriquecedor como los anteriores, pero este me llevó naturalmente a aplicar un pensamiento analítico más desafiante. Obviamente, esta evolución se dio gracias al camino recorrido en los tres módulos previos. Acá me encontré pivotando entre pistas y tomando decisiones con más confianza. El hecho de haber profundizado en uno de los pilares más importantes de un Analista SOC *el monitoreo de endpoints, la identificación de actividad maliciosa en dispositivos, la interpretación de eventos críticos del sistema operativo y el uso de herramientas reales para la detección y respuesta ante incidentes* me hizo sentir como si formara parte de un equipo SOC.
 
-## 🧰 Herramientas de Monitoreo y Análisis en Endpoints que utilicé:
-https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring/README.md
+## 🧰 Herramientas que utilicé:
 - **🔎 Core Windows Processes: Para comprender procesos esenciales y detectar actividad sospechosa.**
 
 - **📁 Sysinternals Suite: Utilizada para investigar el comportamiento del sistema en profundidad.**
