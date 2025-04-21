@@ -45,7 +45,7 @@ Extracción de artefactos con **NetworkMiner**.
 📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis)
   
 ##
-### 🛡️ <ins>Módulo 4 - Endpoint Security Monitoring (En proceso)</ins>⏳🛠️
+### 🛡️ <ins>Módulo 4 - Endpoint Security Monitoring</ins>
 Finalicé este módulo profundizando en uno de los pilares clave del rol SOC: análisis de actividad maliciosa dentro de los endpoints, detectar comportamiento sospechoso, eventos críticos del sistema, y a utilizar herramientas de entorno empresarial para hacer frente a distintas amenazas. 
 
 ### 📢 <ins>Conceptos Aprendidos:</ins>
