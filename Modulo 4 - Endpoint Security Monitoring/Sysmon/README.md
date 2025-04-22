@@ -38,3 +38,27 @@
 
 ## IP del atacante vía RDP	| ✅ `10.11.27.46`
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Sysmon%201/TASK%20-%20B/1.png)
+
+## 📈 Línea Temporal del Incidente
+
+| 🕒 Secuencia | 🧩 Evento                                                                 |
+|-------------|--------------------------------------------------------------------------|
+| 1 | La empleada descarga y ejecuta el instalador falso.                     |
+| 2  | El ransomware cifra los archivos y muestra una nota de rescate.         |
+| 3  | La usuaria entra en pánico y se ausenta del escritorio.                 |
+| 4   | El atacante accede vía RDP, examina el sistema.                         |
+| 5  | Al descubrir que se trataba de una ONG, descarga y ejecuta un decryptor.|
+| 6  | Deja un mensaje en el escritorio y se desconecta.                       |
+| 7  | El equipo SOC inicia la investigación.                                  |
+
+---
+
+# 🎖️ Conclusión
+## Con este desafío, volví a reforzar mi capacidad para investigar de forma estructurada, interpretar eventos y conectar señales en distintos puntos del sistema. Una experiencia clave para seguir formando una base sólida.
+
+
+
+
+
+
+
