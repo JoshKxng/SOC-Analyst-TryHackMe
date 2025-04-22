@@ -1,7 +1,8 @@
 # Pathway SOC Level 1 - TryHackMe
 Hola!👋 Este repositorio tiene como finalidad documentar mi progreso en el Pathway de **SOC Analyst Level 1 de TryHackMe**. 
 Acá encontrarás mi experiencia práctica, las herramientas que utilicé y casos de estudios con enfoque en **Threat Intelligence, SIEM, y análisis de amenazas**
-##
+
+---
 
 ## 📚 Módulos Completados 4/8
 ### 🛠️ <ins>Módulo 1: Cyber Defence Frameworks<ins>  
@@ -17,7 +18,7 @@ Por último, Evaluación de indicadores de amenazas con la **Pyramid of Pain**.
   
 📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%201%20-%20Cyber%20Defence%20Frameworks)
 
-##
+---
 ### 🕵️ <ins>Módulo 2: Cyber Threat Intelligence<ins>
 ### 💡 <ins>Resumen:</ins>  
 Aprendí a recolectar y analizar inteligencia de amenazas utilizando herramientas **OSINT, YARA** y plataformas como **OpenCTI y MISP**.
@@ -30,8 +31,7 @@ Compartición de información sobre amenazas con **MISP**.
 
 📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%202%20-%20Cyber%20Threat%20Intelligence)
 
-  
-##
+---
 ### 🌐 <ins>Módulo 3 - Network Security & Traffic Analysis</ins>
 Finalicé este módulo con foco en el análisis de tráfico de red, detección de amenazas y técnicas forenses. Usé herramientas profesionales para visualizar, inspeccionar y extraer información útil desde archivos .pcap. 
 
@@ -44,7 +44,7 @@ Extracción de artefactos con **NetworkMiner**.
 
 📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis)
   
-##
+---
 ### 🛡️ <ins>Módulo 4 - Endpoint Security Monitoring</ins>
 Finalicé este módulo profundizando en uno de los pilares clave del rol SOC: análisis de actividad maliciosa dentro de los endpoints, detectar comportamientos sospechosos, eventos críticos del sistema y a utilizar herramientas de entorno empresarial para hacer frente a distintas amenazas. 
 
@@ -55,3 +55,16 @@ Herramientas Sysinternals para análisis avanzado de sistemas.
 Lectura y análisis de logs de eventos en Windows.  
 
 📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring)
+
+---
+### 📊 <ins>Módulo 5 - Security Information and Event Management</ins> (En proceso) ⏳🛠️
+A medida que voy avanzando en este nuevo módulo, me voy familiarizando más con el uso de plataformas SIEM. Sigo reforzando y aprendiendo a investigar incidentes reales a partir de logs, formular consultas eficientes, correlacionar eventos y detectar comportamientos sospechosos en grandes volúmenes de datos.
+
+### 📢 <ins>Conceptos en desarrollo:</ins>  
+Introducción al funcionamiento de un SIEM.  
+Primeros pasos en análisis con ELK.  
+Investigaciones interactivas con Splunk.  
+Creación de búsquedas simples y avanzadas sobre logs.  
+Simulación de incidentes y resolución de alertas.  
+
+📌 Notas y ejemplos, próximamente ⏳
