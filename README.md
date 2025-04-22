@@ -49,9 +49,9 @@ Extracción de artefactos con **NetworkMiner**.
 Finalicé este módulo profundizando en uno de los pilares clave del rol SOC: análisis de actividad maliciosa dentro de los endpoints, detectar comportamientos sospechosos, eventos críticos del sistema y a utilizar herramientas de entorno empresarial para hacer frente a distintas amenazas. 
 
 ### 📢 <ins>Conceptos Aprendidos:</ins>
-Sysmon, Osquery, Wazuh.  
+**Sysmon, Osquery, Wazuh**.  
 Procesos esenciales de Windows y detección de actividad anómala.  
-Herramientas Sysinternals para análisis avanzado de sistemas.  
+Herramientas **Sysinternals** para análisis avanzado de sistemas.  
 Lectura y análisis de logs de eventos en Windows.  
 
 📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring)
@@ -61,9 +61,9 @@ Lectura y análisis de logs de eventos en Windows.
 A medida que voy avanzando en este nuevo módulo, me voy familiarizando más con el uso de plataformas SIEM. Sigo reforzando y aprendiendo a investigar incidentes reales a partir de logs, formular consultas eficientes, correlacionar eventos y detectar comportamientos sospechosos en grandes volúmenes de datos.
 
 ### 📢 <ins>Conceptos en desarrollo:</ins>  
-Introducción al funcionamiento de un SIEM.  
-Primeros pasos en análisis con ELK.  
-Investigaciones interactivas con Splunk.  
+Introducción al funcionamiento de un **SIEM**.  
+Primeros pasos en análisis con **ELK**.  
+Investigaciones interactivas con **Splunk**.  
 Creación de búsquedas simples y avanzadas sobre logs.  
 Simulación de incidentes y resolución de alertas.  
 
