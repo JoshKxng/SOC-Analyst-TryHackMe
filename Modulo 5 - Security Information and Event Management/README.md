@@ -2,7 +2,7 @@
 
 ### Actualmente me encuentro transitando el quinto módulo de este pathway. Si bien todavía está en desarrollo, ya empecé a sumergirme en conceptos y prácticas que me acercan al manejo real de plataformas SIEM, pilar fundamental para el trabajo de un Analista SOC.
 
-✍️ A medida que avance, iré documentando cada ejercicio práctico, análisis y simulación de incidentes que realice.  
+✍️ A medida que avance, iré documentando cada ejercicio práctico y simulación de incidentes que realice.  
 Cada sección y desafío a resolver lleva su debido tiempo. Es por eso que esta sección se encuentra en progreso. 💪
 
 ---
