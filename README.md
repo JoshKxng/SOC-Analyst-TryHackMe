@@ -67,4 +67,4 @@ Investigaciones interactivas con **Splunk**.
 Creación de búsquedas simples y avanzadas sobre logs.  
 Simulación de incidentes y resolución de alertas.  
 
-📌 Notas y ejemplos, próximamente ⏳
+📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%205%20-%20Security%20Information%20and%20Event%20Management) ⏳🛠️
