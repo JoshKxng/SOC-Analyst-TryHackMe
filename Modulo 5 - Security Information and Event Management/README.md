@@ -1,31 +1,32 @@
 # 📊 Módulo 5 - Security Information and Event Management
 
-### Actualmente me encuentro transitando el quinto módulo de este pathway. Si bien todavía está en desarrollo, ya empecé a sumergirme en conceptos y prácticas que me acercan al manejo real de plataformas SIEM, pilar fundamental para el trabajo de un Analista SOC.
+### Finalicé este quinto módulo y puedo decir con certeza que fue uno de los que más disfruté. No solo consolidé mi conocimiento sobre los sistemas SIEM, sino que también pude llevarlo a la práctica en escenarios cercanos a lo que enfrentaría en un equipo SOC real.
 
-✍️ A medida que avance, iré documentando cada ejercicio práctico y simulación de incidentes que realice.  
-Cada sección y desafío a resolver lleva su debido tiempo. Es por eso que esta sección se encuentra en progreso. 💪
+Trabajé con dos de los SIEMs más utilizados de la industria: **ELK Stack** y **Splunk**. Resolver desafíos interactivos con estas herramientas me permitió fortalecer mi razonamiento investigativo, formular búsquedas eficientes, correlacionar eventos y detectar actividades sospechosas en grandes volúmenes de datos. Este módulo enriqueció profundamente mi arsenal técnico y me acercó aún más a la realidad del trabajo como analista SOC.
+
+**📌 Este módulo fue clave para seguir consolidando el uso de herramientas reales del entorno SOC. Cada simulación fue una oportunidad para pensar como un defensor y actuar como uno.**
 
 ---
 
-## 🧰 Herramientas y conceptos que estoy estudiando:
+## 🧰 Herramientas y conceptos abordados:
 
-| Herramientas    | Función principal                                                                 |
-|-----------------------------|----------------------------------------------------------------------------------|
-| 📊 **Introducción al SIEM**  | **Entendimiento general de las funciones de un sistema de gestión de eventos**    |
-| 🛠️ **ELK Stack**              | **Análisis de eventos y visualización de logs en entornos empresariales**          |
-| 🔎 **Splunk**                | **Investigaciones interactivas y creación de búsquedas avanzadas**                 |
-| 📑 **Consultas de logs**      | **Formulación de búsquedas simples y complejas para detección de incidentes**       |
-| 🚨 **Resolución de alertas**   | **Investigación de eventos sospechosos y simulación de incidentes reales**         |
+| Herramienta / Concepto            | Función principal                                                                 |
+|----------------------------------|----------------------------------------------------------------------------------|
+| 📊 **ELK Stack**                  | **Análisis de eventos y visualización de logs en entornos empresariales reales** |
+| 🔍 **Splunk**                     | **Investigaciones interactivas y creación de búsquedas avanzadas**               |
+| 📑 **Consultas de logs**          | **Formulación de búsquedas simples y complejas para detección de incidentes**    |
+| 🚨 **Simulación de incidentes**   | **Resolución de alertas y análisis de hosts comprometidos**                      |
 
 ---
 
 ## 📂 Notas y Documentación:
 
-### Estoy trabajando en la elaboración de apuntes prácticos y ejemplos aplicados para cada herramienta, los cuales estarán disponibles próximamente.
+### Te invito a ver mi recorrido por estos desafíos, en cada uno de estos entornos con ejemplos prácticos y explicaciones accesibles:
 
-- 📊 Primeros pasos en ELK Stack (En curso) 🛠️
-- 🔎 Investigaciones con Splunk (Próximamente) ⏳
+- 🧠 [ItsyBitsy]() – Investigación de incidentes con ELK ✅  
+- 📊 [Incident Handling with Splunk]() – Manejo de incidentes paso a paso ✅  
+- 🔍 [Investigating with Splunk]() – Análisis de anomalías y detección temprana ✅  
+- 💻 [Benign]() – Caso práctico de host comprometido ✅
 
 ---
-
 
