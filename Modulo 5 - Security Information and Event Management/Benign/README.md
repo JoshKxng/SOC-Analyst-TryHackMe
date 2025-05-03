@@ -61,6 +61,6 @@ Refiné mi búsqueda enfocándome en el binario **`certutil.exe`** y en su uso c
 En la misma evidencia resalté el nombre del archivo que fue descargado en el host comprometido durante la fase de post-explotación: 👉 **`benign.exe`**
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Benign/06.png)
 
---
+---
 # 🎖️ Conclusión
 ## Este desafío fue uno de mis favoritos (y ya son varios jajaja), porque fue una experiencia sumamente enriquecedora, voy experimentando como mi razonamiento lógico e intuición van siendo cada vez más clave para llegar a las respuestas correctas. Muchas veces, antes de confirmar una pista, fue mi instinto analítico el que me llevó a hacer clic en el campo correcto o ajustar el filtro justo como debía ser. El poder moverme entre eventos, examinar comandos y extraer conclusiones dentro de un entorno realista de trabajo SOC es una sensación de crecimiento enorme.
