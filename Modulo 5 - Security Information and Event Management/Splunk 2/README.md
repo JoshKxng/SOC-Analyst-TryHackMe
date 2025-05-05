@@ -32,11 +32,28 @@ Mi rol como **Analista SOC L1 Jr.** fue revisar minuciosamente los eventos de se
 ---
 
 ### 🧑‍💻 ¿Cuál es el nombre del host infectado en el que se ejecutaron comandos PowerShell maliciosos y cuántos eventos de PowerShell se registraron relacionados con la ejecución del script malicioso?
-### ✅ **`79`**
+### ✅ **`79 Eventos`**
 ### ✅ **`James.browne`**
 ![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Investigating%20with%20Splunk/05.png)
 
 ---
 
-### 📄 ¿Cuántos eventos de PowerShell se registraron relacionados con la ejecución del script malicioso?  
-### ✅ **``**
+### 🌐 ¿Cuál es la URL completa que fue contactada desde el host infectado mediante un script PowerShell codificado?
+### ✅ **`hxxp[://]10[.]10[.]10[.]5/news[.]php`**
+### 1️⃣
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Investigating%20with%20Splunk/06.png)
+
+### 2️⃣
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Investigating%20with%20Splunk/07.png)
+
+### 3️⃣
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Investigating%20with%20Splunk/08.png)
+
+### 4️⃣
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Investigating%20with%20Splunk/09.png)
+
+---
+
+# 🎖️ Conclusión
+
+### Un nuevo desafío productivo y enriquecedor. A medida que iba avanzando con la investigación sentí que estaba dentro de un entorno real de trabajo en un SOC, analizando eventos, cruzando información y sacando conclusiones. Se volvió a hacer hincapié en la importancia de la persistencia y análisis de eventos de Windows, pero también a afinar mi propio razonamiento investigativo.
