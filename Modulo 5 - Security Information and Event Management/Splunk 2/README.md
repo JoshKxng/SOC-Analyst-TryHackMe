@@ -19,3 +19,24 @@ Mi rol como **Analista SOC L1 Jr.** fue revisar minuciosamente los eventos de se
 
 ---
 
+### 🕵️‍♂️ ¿Qué usuario legítimo intentó suplantar el adversario durante el ataque?  
+### ✅ **`Alberto`**
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Investigating%20with%20Splunk/03.png)
+
+---
+
+### 🖥️ ¿Qué comando se utilizó para crear el usuario backdoor desde un equipo remoto?
+### ✅ **`C:\windows\System32\Wbem\WMIC.exe" /node:WORKSTATION6 process call create "net user /add A1berto paw0rd1`**
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Investigating%20with%20Splunk/04.png)
+
+---
+
+### 🧑‍💻 ¿Cuál es el nombre del host infectado en el que se ejecutaron comandos PowerShell maliciosos y cuántos eventos de PowerShell se registraron relacionados con la ejecución del script malicioso?
+### ✅ **`79`**
+### ✅ **`James.browne`**
+![](https://raw.githubusercontent.com/JoshKxng/SOC-Analyst-TryHackMe/refs/heads/main/imagenes/Investigating%20with%20Splunk/05.png)
+
+---
+
+### 📄 ¿Cuántos eventos de PowerShell se registraron relacionados con la ejecución del script malicioso?  
+### ✅ **``**
