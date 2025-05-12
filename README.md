@@ -57,7 +57,7 @@ Lectura y análisis de logs de eventos en Windows.
 📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring)
 
 ---
-### 📊 <ins>Módulo 5 - Security Information and Event Management</ins> (En proceso) ⏳🛠️
+### 📊 <ins>Módulo 5 - Security Information and Event Management</ins>
 A medida que voy avanzando en este nuevo módulo, me voy familiarizando más con el uso de plataformas SIEM. Sigo reforzando y aprendiendo a investigar incidentes reales a partir de logs, formular consultas eficientes, correlacionar eventos y detectar comportamientos sospechosos en grandes volúmenes de datos.
 
 ### 📢 <ins>Conceptos en desarrollo:</ins>  
@@ -67,4 +67,10 @@ Investigaciones interactivas con **Splunk**.
 Creación de búsquedas simples y avanzadas sobre logs.  
 Simulación de incidentes y resolución de alertas.  
 
-📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%205%20-%20Security%20Information%20and%20Event%20Management) ⏳🛠️
+📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%205%20-%20Security%20Information%20and%20Event%20Management)
+
+---
+### 🧪 <ins>Módulo 6 - Digital Forensics and Incident Response<ins> (En proceso) 🔍🛠️
+
+#### 📌 Notas y ejemplos, proximamente!
+----
