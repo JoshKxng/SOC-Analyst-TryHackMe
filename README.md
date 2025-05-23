@@ -4,7 +4,7 @@ Acá encontrarás mi experiencia práctica, las herramientas que utilicé y caso
 
 ---
 
-## 📚 Módulos Completados 4/8
+## 📚 Módulos Completados 5/8
 ### 🛠️ <ins>Módulo 1: Cyber Defence Frameworks<ins>  
   
 ### 💡 <ins>Resumen:<ins> 
