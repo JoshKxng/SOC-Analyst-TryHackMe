@@ -9,10 +9,10 @@
 
 ## 🧰 Herramientas y conceptos vistos:
 
-| Concepto / Herramienta            | Función principal                                                                 |
+| Concepto / Herramienta            | Función principal de cada Concpeto                                                                |
 |------------------------------|------------------------------------------------------------------------------------|
-| 🧾 **Windows Forensics 1**    | Investigación basada en el Registro de Windows y artefactos clave del sistema     |
-| 🐧 **Linux Challenge**       | Investigación forense de un incidente en sistema Linux real                       |
+| 🧾 **Windows Forensics**    | Investigación basada en el Registro de Windows y artefactos clave de su sistema     |
+| 🐧 **Linux Forensics**       | Investigación forense basada en Linux                  |
 | 🐝 **TheHive**               | Reporte de hallazgos e integración en una plataforma real de gestión de incidentes|
 | 📦 **KAPE**                  | Extracción estructurada de artefactos forenses desde endpoints Windows             |
 | 🧠 **Volatility**            | Análisis de volcados de memoria RAM para identificar procesos sospechosos          |
