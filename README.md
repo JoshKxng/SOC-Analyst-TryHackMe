@@ -70,7 +70,8 @@ Simulación de incidentes y resolución de alertas.
 📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%205%20-%20Security%20Information%20and%20Event%20Management)
 
 ---
-### 🧪 <ins>Módulo 6 - Digital Forensics and Incident Response<ins> (En proceso) 🔍🛠️
+### 🔎 <ins>Módulo 6 - Digital Forensics and Incident Response<ins>
 
-#### 📌 Notas y ejemplos, proximamente!
+📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/README.md)
+
 ----
