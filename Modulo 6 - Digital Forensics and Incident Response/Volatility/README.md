@@ -1,4 +1,4 @@
-# 🧠 Volatility - Case 001: *BOB! THIS ISN'T A HORSE!*
+# 💾 Volatility - Case 001: *BOB! THIS ISN'T A HORSE!*
 
 ## 📁 Descripción del Caso
 Mi equipo del SOC me informó que se había aislado un endpoint potencialmente comprometido. Se sospechaba que el usuario había abierto un supuesto documento de Adobe que en realidad contenía un **troyano bancario**. Se realizó un volcado de memoria desde la máquina comprometida y mi tarea fue aplicar análisis forense para identificar evidencia del compromiso.
