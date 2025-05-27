@@ -14,10 +14,10 @@
 | 🌐 **Windows Forensics**    | Investigación basada en el Registro de Windows y artefactos clave de su sistema     |
 | 🐧 **Linux Forensics**       | Investigación forense basada en Linux                  |
 | 🐝 **TheHive**               | Reporte de hallazgos e integración en una plataforma real de gestión de incidentes|
-| 📦 **KAPE**                  | Extracción estructurada de artefactos forenses desde endpoints Windows             |
-| 🧠 **Volatility**            | Análisis de volcados de memoria RAM para identificar procesos sospechosos          |
+| 💾 **Volatility**            | Análisis de volcados de memoria RAM para identificar procesos sospechosos          |
 | 🕵️‍♂️ **Autopsy**              | Inspección forense de imágenes de disco para reconstrucción de actividades         |
 | 🏮 **Redline**               | Análisis de memoria e identificación de IOCs en endpoints                         |
+| 📦 **KAPE**                  | Extracción estructurada de artefactos forenses desde endpoints Windows             |
 
 ---
 
@@ -29,7 +29,7 @@
 - 🐧 [Linux Challenge](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/Linux%20Forensics) ✅
 - 🕵️‍♂️ [Autopsy](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/Autopsy) ✅
 - 🏮 [Redline](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/Redline) ✅
-- 🧠 [Volatility](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/Volatility) ✅      
-- 🐝 [TheHive](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/TheHive) ⏳  
+- 💾 [Volatility](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/Volatility) ✅      
+- 🐝 [TheHive](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/TheHive) ✅  
 
 ---
