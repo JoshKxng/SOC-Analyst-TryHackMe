@@ -7,7 +7,6 @@ Acá encontrarás mi experiencia práctica, las herramientas que utilicé y caso
 ## 📚 Módulos Completados 6/8
 ### 🛠️ <ins>Módulo 1: Cyber Defence Frameworks<ins>  
   
-### 💡 <ins>Resumen:<ins> 
 Trabajé con los principales marcos de defensa cibernética, incluyendo la **Cyber Kill Chain**, **MITRE ATT&CK** y el **Diamond Model**. También aprendí cómo las organizaciones usan estos modelos para identificar y responder a amenazas.
 
 ### 📢 <ins>Conceptos Aprendidos:<ins>
@@ -20,7 +19,6 @@ Por último, Evaluación de indicadores de amenazas con la **Pyramid of Pain**.
 
 ---
 ### 🕵️ <ins>Módulo 2: Cyber Threat Intelligence<ins>
-### 💡 <ins>Resumen:</ins>  
 Aprendí a recolectar y analizar inteligencia de amenazas utilizando herramientas **OSINT, YARA** y plataformas como **OpenCTI y MISP**.
 
 ### 📢 <ins>Conceptos Aprendidos:<ins>
@@ -71,7 +69,14 @@ Simulación de incidentes y resolución de alertas.
 
 ---
 ### 🔎 <ins>Módulo 6 - Digital Forensics and Incident Response<ins>
+Un módulo totalmente desafiante. Aprendí a identificar, recolectar y analizar artefactos forenses en entornos Windows y Linux. Cursar este módulo fue enriquecedor, porque desarrollas una consciencia situacional donde estás pendiente
+al más mínimo detalle.
 
 📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/README.md)
 
 ----
+
+### 📧🎣 <ins>Módulo 7 - Phishing (En curso🛠️)<ins>
+A medida que voy progresando con este módulo me estoy familiarizando con los encabezados de los correos, las herramientas que permiten identificar los ataques y las tácticas inteligentes que aplican estos atacantes.
+
+📌 Notas y ejemplos, en proceso ⏳
