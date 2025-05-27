@@ -1,4 +1,4 @@
-# 🧪 Módulo 6 - Digital Forensics and Incident Response ✅
+# 🕵️ Módulo 6 - Digital Forensics and Incident Response
 
 ### Hasta ahora, este módulo fue el más desafiante. Este módulo me llevo a otro nivel de pensamiento análitico.
 ### Trabajé en la identificación y recolección de artefactos digitales tanto en Windows como en Linux, así como en el análisis de memoria, disco, y registros del sistema.
