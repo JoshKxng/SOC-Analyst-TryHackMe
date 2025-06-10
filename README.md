@@ -1,82 +1,33 @@
-# Pathway SOC Level 1 - TryHackMe
-Hola!👋 Este repositorio tiene como finalidad documentar mi progreso en el Pathway de **SOC Analyst Level 1 de TryHackMe**. 
-Acá encontrarás mi experiencia práctica, las herramientas que utilicé y casos de estudios con enfoque en **Threat Intelligence, SIEM, y análisis de amenazas**
+# 🛡️ SOC Analyst L1 - Pathway Completado ✅
 
----
-
-## 📚 Módulos Completados 7/7
-### 🛠️ <ins>Módulo 1: Cyber Defence Frameworks<ins>  
-  
-Trabajé con los principales marcos de defensa cibernética, incluyendo la **Cyber Kill Chain**, **MITRE ATT&CK** y el **Diamond Model**. También aprendí cómo las organizaciones usan estos modelos para identificar y responder a amenazas.
-
-### 📢 <ins>Conceptos Aprendidos:<ins>
-
-En este módulo trabajé con **MITRE ATT&CK** para mapear tácticas de adversarios y analizar que Frameworks utilizaban los **Grupos APT**.
-Paralelamente ejecuté el uso de la **Cyber Kill Chain** en escenarios reales.  
-Por último, Evaluación de indicadores de amenazas con la **Pyramid of Pain**.  
-  
-📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%201%20-%20Cyber%20Defence%20Frameworks)
-
----
-### 🕵️ <ins>Módulo 2: Cyber Threat Intelligence<ins>
-Aprendí a recolectar y analizar inteligencia de amenazas utilizando herramientas **OSINT, YARA** y plataformas como **OpenCTI y MISP**.
-
-### 📢 <ins>Conceptos Aprendidos:<ins>
-
-Uso de **OpenCTI** para investigar malware y grupos APT.  
-Creación de reglas **YARA** para detección de amenazas.  
-Compartición de información sobre amenazas con **MISP**.
-
-📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%202%20-%20Cyber%20Threat%20Intelligence)
-
----
-### 🌐 <ins>Módulo 3 - Network Security & Traffic Analysis</ins>
-Finalicé este módulo con foco en el análisis de tráfico de red, detección de amenazas y técnicas forenses. Usé herramientas profesionales para visualizar, inspeccionar y extraer información útil desde archivos .pcap. 
-
-### 📢 <ins>Conceptos Aprendidos:</ins>
-
-Inspección de paquetes con **Wireshark** y **TShark**.  
-Análisis basado en logs con **Zeek**.  
-Visualización de tráfico con **Brim**.  
-Extracción de artefactos con **NetworkMiner**.
-
-📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Level-1-THM/tree/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis)
-  
----
-### 🛡️ <ins>Módulo 4 - Endpoint Security Monitoring</ins>
-Finalicé este módulo profundizando en uno de los pilares clave del rol SOC: análisis de actividad maliciosa dentro de los endpoints, detectar comportamientos sospechosos, eventos críticos del sistema y a utilizar herramientas de entorno empresarial para hacer frente a distintas amenazas. 
-
-### 📢 <ins>Conceptos Aprendidos:</ins>
-**Sysmon, Osquery, Wazuh**.  
-Procesos esenciales de Windows y detección de actividad anómala.  
-Herramientas **Sysinternals** para análisis avanzado de sistemas.  
-Lectura y análisis de logs de eventos en Windows.  
-
-📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring)
-
----
-### 📊 <ins>Módulo 5 - Security Information and Event Management</ins>
-A medida que voy avanzando en este nuevo módulo, me voy familiarizando más con el uso de plataformas SIEM. Sigo reforzando y aprendiendo a investigar incidentes reales a partir de logs, formular consultas eficientes, correlacionar eventos y detectar comportamientos sospechosos en grandes volúmenes de datos.
-
-### 📢 <ins>Conceptos en desarrollo:</ins>  
-Introducción al funcionamiento de un **SIEM**.  
-Primeros pasos en análisis con **ELK**.  
-Investigaciones interactivas con **Splunk**.  
-Creación de búsquedas simples y avanzadas sobre logs.  
-Simulación de incidentes y resolución de alertas.  
-
-📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%205%20-%20Security%20Information%20and%20Event%20Management)
-
----
-### 🔎 <ins>Módulo 6 - Digital Forensics and Incident Response<ins>
-Un módulo totalmente desafiante. Aprendí a identificar, recolectar y analizar artefactos forenses en entornos Windows y Linux. Cursar este módulo fue enriquecedor, porque desarrollas una consciencia situacional donde estás pendiente
-al más mínimo detalle.
-
-📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response/README.md)
-
+### Hola!👋 Este repositorio empezó con la meta de documentar mi progreso en el Pathway de SOC Analyst Level 1 de TryHackMe. Desde su inicio hasta su finalización.  
+### Acá vas a encontrar mi experiencia práctica, las herramientas con las que trabajé, los casos de estudios y los desafíos del día a día que se encuentran en un SOC.
 ----
+## 📚 Visita los módulos completados
 
-### 📧🎣 <ins>Módulo 7 - Phishing (En curso🛠️)<ins>
-A medida que voy progresando con este módulo me estoy familiarizando con los encabezados de los correos, las herramientas que permiten identificar los ataques y las tácticas inteligentes que aplican estos atacantes.
+| Módulo | Título                                               | Estado     | Enlace                                                                 |
+|----------|------------------------------------------------------|------------|------------------------------------------------------------------------|
+| 1️⃣🛠️       | **Cyber Defence Frameworks**                        | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%201%20-%20Fundamentos%20de%20Ciberseguridad)         |
+| 2️⃣💻       | **Cyber Threat Intelligence**                            | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%202%20-%20Networking)                                  |
+| 3️⃣🌐      | **Network Security & Traffic Analysis**                 | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis) |
+| 4️⃣🛡️      | **Endpoint Security Monitoring**                        | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring)            |
+| 5️⃣📊       | **Security Information and Event Management (SIEM)**   | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%205%20-%20Security%20Information%20and%20Event%20Management) |
+| 6️⃣🕵️       | **Digital Forensics and Incident Response (DFIR)**     | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%206%20-%20Digital%20Forensics%20and%20Incident%20Response)  |
+| 7️⃣📧       | **Phishing Analysis (Módulo Final)**                             | ✅ Completado  | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%207%20-%20Phishing%20Analysis)                                     |
 
-📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%207%20-%20Phishing%20Analysis)
+---
+
+## 👀 ¿Qué vas a encontrar?
+
+| Área                   | Habilidades Adquiridas                                                                 |
+|------------------------|----------------------------------------------------------------------------------------|
+| **🚨 Incident Response** | Manejo de incidentes utilizando herramientas **SIEM** y análisis forense de artefactos.     |
+| **🔍 Security Analysis** | Detección y análisis de anomalías en el tráfico de red.                                |
+| **🛡️ Security Engineer** | Monitoreo de endpoints y fortalecimiento de la seguridad.                              |
+
+## 🎓 Certificado Oficial
+![](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/imagenes/Certificate/Certificate.png)
+
+---
+### 💫¡Gracias por visitar!
+### Al finalizar este curso puedo compartir que fue una experiencia enriquecedora en todo sentido, tanto en lo profesional y acádemico, como en lo personal. Mucho compromiso y constante crecimiento. Si estás buscando una persona comprometida, con ganas de crecer y con inciativa, no dudes en contactarme!
