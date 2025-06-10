@@ -20,5 +20,5 @@
 ---
 
 ## 📂 Notas y documentación
-- 📨📗 [The Greenholt Phish - Análisis de un correo malicioso]() ⌛
+- 📨📗 [The Greenholt Phish - Análisis de un correo malicioso](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%207%20-%20Phishing%20Analysis/The%20Greenholt%20Phish) ✅
 
