@@ -4,7 +4,7 @@ Acá encontrarás mi experiencia práctica, las herramientas que utilicé y caso
 
 ---
 
-## 📚 Módulos Completados 6/8
+## 📚 Módulos Completados 7/7
 ### 🛠️ <ins>Módulo 1: Cyber Defence Frameworks<ins>  
   
 Trabajé con los principales marcos de defensa cibernética, incluyendo la **Cyber Kill Chain**, **MITRE ATT&CK** y el **Diamond Model**. También aprendí cómo las organizaciones usan estos modelos para identificar y responder a amenazas.
@@ -79,4 +79,4 @@ al más mínimo detalle.
 ### 📧🎣 <ins>Módulo 7 - Phishing (En curso🛠️)<ins>
 A medida que voy progresando con este módulo me estoy familiarizando con los encabezados de los correos, las herramientas que permiten identificar los ataques y las tácticas inteligentes que aplican estos atacantes.
 
-📌 Notas y ejemplos, en proceso ⏳
+📌 [Notas y ejemplos](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%207%20-%20Phishing%20Analysis)
