@@ -30,4 +30,10 @@
 
 ---
 ### 💫¡Gracias por visitar!
-### Al finalizar este curso puedo compartir que fue una experiencia enriquecedora en todo sentido, tanto en lo profesional y acádemico, como en lo personal. Mucho compromiso y constante crecimiento. Si estás buscando una persona comprometida, con ganas de crecer y con inciativa, no dudes en contactarme!
+### Finalizar este curso fue una experiencia enriquecedora en todo sentido, tanto en lo profesional y acádemico, como en lo personal. Hubo mucho compromiso y un crecimiento constante en cada etapa del proceso. Si estás buscando una persona comprometida, con ganas de crecer y con inciativa, no dudes en contactarme!
+<a href="https://www.linkedin.com/in/joshua-tobias-ranure-682420236/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
+
+
+
