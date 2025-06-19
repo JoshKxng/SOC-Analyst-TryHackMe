@@ -24,6 +24,7 @@
 | **🚨 Incident Response** | Manejo de incidentes utilizando herramientas **SIEM** y análisis forense de artefactos.     |
 | **🔍 Security Analysis** | Detección y análisis de anomalías en el tráfico de red.                                |
 | **🛡️ Security Engineer** | Monitoreo de endpoints y fortalecimiento de la seguridad.                              |
+| **🏆 Desafíos Extras** | Sección exclusiva donde se resuelven Prácticas adicionales como analista SOC.|
 
 ## 🎓 Certificado Oficial
 ![](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/imagenes/Certificate/Certificate.png)
