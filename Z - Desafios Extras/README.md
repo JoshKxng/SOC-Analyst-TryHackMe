@@ -19,8 +19,8 @@ Acá voy a estar subiendo **casos prácticos, escenarios forenses y desafíos de
 - 🔎 [`Investigating Windows`](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Z%20-%20Desafios%20Extras/Investigating%20Windows)  
 Caso simulado de un sistema Windows comprometido. Muestro una investigación sobre persistencia maliciosa, C2, Mimikatz y más.
 
-🛠️ _(Se irán sumando nuevos desafíos periódicamente)_ 🛠️
-
+- 📊 [`Splunk - Threat Hunting`](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Z%20-%20Desafios%20Extras/Splunk%20-%20Volt%20Typhoon)  
+Investigación de un ataque completo por parte del grupo APT chino Volt Typhoon.
 ---
 ## 🤝 Gracias por tu visita!
 
