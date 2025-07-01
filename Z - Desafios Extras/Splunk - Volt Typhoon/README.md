@@ -97,7 +97,6 @@ Detectado en logs de `7z` al comprimir `temp.dit` en un archivo con password.
 ## 🔌 8. C2 & Cleanup
 
 ### 🔢 El atacante usa netsh para crear un proxy para las comunicaciones C2. ¿Qué dirección de conexión y puerto usa el atacante al configurar el proxy?
-Formato de la respuesta: IP Puerto
 ### ✅ `10.2.30.1 8443`
 ![](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/blob/main/imagenes/Splunk%20-%20Volt%20Typhoon/10.png)
 
