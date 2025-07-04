@@ -7,8 +7,8 @@
 
 | Módulo | Título                                               | Estado     | Enlace                                                                 |
 |----------|------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1️⃣🛠️       | **Cyber Defence Frameworks**                        | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%201%20-%20Fundamentos%20de%20Ciberseguridad)         |
-| 2️⃣💻       | **Cyber Threat Intelligence**                            | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%202%20-%20Networking)                                  |
+| 1️⃣🛠️       | **Cyber Defence Frameworks**                        | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%201%20-%20Cyber%20Defence%20Frameworks)         |
+| 2️⃣💻       | **Cyber Threat Intelligence**                            | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%202%20-%20Cyber%20Threat%20Intelligence)         |
 | 3️⃣🌐      | **Network Security & Traffic Analysis**                 | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%203%20-%20Network%20Security%20%26%20Traffic%20Analysis) |
 | 4️⃣🛡️      | **Endpoint Security Monitoring**                        | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%204%20-%20Endpoint%20Security%20Monitoring)            |
 | 5️⃣📊       | **Security Information and Event Management (SIEM)**   | ✅ Completado | [Ver módulo](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Modulo%205%20-%20Security%20Information%20and%20Event%20Management) |
