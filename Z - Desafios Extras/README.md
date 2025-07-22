@@ -21,6 +21,9 @@ Caso simulado de un sistema Windows comprometido. Muestro una investigación sob
 
 - 📊 [`Splunk - Threat Hunting`](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Z%20-%20Desafios%20Extras/Splunk%20-%20Volt%20Typhoon)  
 Investigación de un ataque completo por parte del grupo APT chino Volt Typhoon.
+
+- 💥 [`Ransomware - PS Eclipse`](https://github.com/JoshKxng/SOC-Analyst-TryHackMe/tree/main/Z%20-%20Desafios%20Extras/Ransomware%20PS%20Eclipse)  
+Simulación de intento de ransomware en una máquina Windows. Analizo cómo se ejecutó el ataque y qué rastros dejó en el sistema con ayuda de Splunk.
 ---
 ## 🤝 Gracias por tu visita!
 
